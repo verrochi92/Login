@@ -12,7 +12,7 @@
         <title>Error</title>
     </head>
     <body>
-        <h1>Oh shit!</h1>
+        <h1>Oh no!</h1>
         <p>Looks like an error has occurred!</p>
     </body>
 </html>
